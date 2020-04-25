@@ -72,11 +72,6 @@ input, select, textarea {
 	appearance: none;
 }
 
-p{
-	justify-content: center;
-	text-justify: inter-word;
-	text-align: justify;
-}
 /* Basic */
 
 	@-ms-viewport {
