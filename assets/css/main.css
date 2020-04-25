@@ -72,7 +72,7 @@ input, select, textarea {
 	appearance: none;
 }
 
-p{
+.text_justified{
 	justify-content: center;
 	text-justify: inter-word;
 	text-align: justify;
