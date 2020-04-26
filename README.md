@@ -1,6 +1,4 @@
 # Colcart
 Colcart demo page
 
-Complete page is not presented here.
-
-Full Page can be requested in sebasmos@ieee.org
+Para volver a activar pagina en https://sebasmos.github.io/Colcart/index.html, ir a Settings y cambiar a publico, luego a branch master!! y alli ya deberia funcionar 
